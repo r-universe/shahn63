@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "generalRSS"]
 	path = generalRSS
-	url = https://github.com/cran/generalRSS
+	url = https://github.com/shahn63/generalrss
